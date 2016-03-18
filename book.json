@@ -1,8 +1,14 @@
 {
+    "title": "认知写作教你讲故事",
+    "version": "3.14 15:9:26",
+    "description": "开智写作笔记",
+    "author": "Robo_one",
+    
+    
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": ""
+            "shortName": "shawn0lee0blog"
         }
-    }
+    }  
 }
