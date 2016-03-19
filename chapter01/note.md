@@ -88,6 +88,11 @@
 客观的评价他人作品或者被评论。
 
 
+#### 快速写作
+
+![航海写作](http://openmindclub.qiniudn.com/cnfeat/image/OMW1w5S.jpg)
+
+
 #### 引申阅读
 
 转自：
@@ -99,3 +104,4 @@
 + （4）避免拒绝对自身进行评估的心智程序，比如神秘主义色彩的思想。
 
 [《驼庵诗话》总论之部](http://note.openmindclub.com/essays/Gusui.html)
+[《学问之趣味》](http://note.openmindclub.com/essays/LQC-knowledge-fun.html)

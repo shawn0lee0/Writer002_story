@@ -5,6 +5,8 @@
    * [笔记](chapter01/note.md)
    * [练习](chapter01/note-1.md)
    * [作业](chapter01/assignment.md)
+   * [活动备忘](chapter01/1wd6.md)
+   * [如何评价|阅读指南](chapter01/How_to_Read_literature.md)
 * [第二讲：写作的最小模型、最小故事与最小行动](chapter02/README.md)
    * [笔记](chapter02/note.md)
    * [作业](chapter02/assignment.md)
